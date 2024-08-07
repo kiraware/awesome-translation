@@ -4,6 +4,8 @@ A curated list of Open Source Projects that has or need translation.
 
 ## A
 
+* [Audacity](https://github.com/audacity/audacity)
+
 ## B
 
 ## C
@@ -31,9 +33,12 @@ A curated list of Open Source Projects that has or need translation.
 
 ## F
 
+* [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
+
 ## G
 
 * [GB Studio](https://github.com/chrismaltby/gb-studio)
+* [Grid Garden](https://github.com/thomaspark/gridgarden)
 
 ## H
 
@@ -49,6 +54,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## M
 
+* [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 * [MkDocs](https://github.com/mkdocs/mkdocs)
 
 ## N
