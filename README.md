@@ -4,6 +4,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## A
 
+* [Angry IP Scanner](https://github.com/angryip/ipscan)
 * [Audacity](https://github.com/audacity/audacity)
 
 ## B
@@ -38,6 +39,7 @@ A curated list of Open Source Projects that has or need translation.
 ## G
 
 * [GB Studio](https://github.com/chrismaltby/gb-studio)
+* [GnuPG for Windows](https://github.com/gpg/gpg4win)
 * [Grid Garden](https://github.com/thomaspark/gridgarden)
 
 ## H
@@ -65,6 +67,8 @@ A curated list of Open Source Projects that has or need translation.
 
 ## P
 
+* [PyPI Warehouse](https://github.com/pypi/warehouse)
+
 ## Q
 
 ## R
@@ -78,6 +82,8 @@ A curated list of Open Source Projects that has or need translation.
 ## U
 
 ## V
+
+* [Visual Studio Code Language Packs](https://github.com/microsoft/vscode-loc)
 
 ## W
 
