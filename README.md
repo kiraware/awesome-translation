@@ -4,6 +4,9 @@ A curated list of Open Source Projects that has or need translation.
 
 ## A
 
+* [Angry IP Scanner](https://github.com/angryip/ipscan)
+* [Audacity](https://github.com/audacity/audacity)
+
 ## B
 
 ## C
@@ -31,9 +34,13 @@ A curated list of Open Source Projects that has or need translation.
 
 ## F
 
+* [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
+
 ## G
 
 * [GB Studio](https://github.com/chrismaltby/gb-studio)
+* [GnuPG for Windows](https://github.com/gpg/gpg4win)
+* [Grid Garden](https://github.com/thomaspark/gridgarden)
 
 ## H
 
@@ -49,6 +56,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## M
 
+* [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 * [MkDocs](https://github.com/mkdocs/mkdocs)
 
 ## N
@@ -58,6 +66,8 @@ A curated list of Open Source Projects that has or need translation.
 * [Obsidian.md](https://github.com/obsidianmd/obsidian-translations)
 
 ## P
+
+* [PyPI Warehouse](https://github.com/pypi/warehouse)
 
 ## Q
 
@@ -72,6 +82,8 @@ A curated list of Open Source Projects that has or need translation.
 ## U
 
 ## V
+
+* [Visual Studio Code Language Packs](https://github.com/microsoft/vscode-loc)
 
 ## W
 
