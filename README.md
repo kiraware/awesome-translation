@@ -56,6 +56,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## M
 
+* [Mastodon](https://github.com/mastodon/mastodon)
 * [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 * [MkDocs](https://github.com/mkdocs/mkdocs)
 
