@@ -12,6 +12,7 @@ A curated list of Open Source Projects that has or need translation.
 ## C
 
 * [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
+* [Conventional Commits](https://github.com/conventional-commits/conventionalcommits.org)
 
 ## D
 
@@ -77,6 +78,7 @@ A curated list of Open Source Projects that has or need translation.
 ## S
 
 * [Safe Exam Browser for Windows](https://github.com/SafeExamBrowser/seb-win-refactoring)
+* [Semantic Versioning](https://github.com/semver/semver.org)
 
 ## T
 
