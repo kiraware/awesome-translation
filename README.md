@@ -101,5 +101,5 @@ A curated list of Open Source Projects that has or need translation.
 ## Contributing
 
 We welcome contributions to Awesome Translation! Please review our
-[contributing guidelines](https://github.com/kiraware/awesome-translation/blob/main/CONTRIBUTING.md).
+[contributing guidelines](https://github.com/kiraware/awesome-translation/blob/main/CONTRIBUTING.md)
 before getting started.
