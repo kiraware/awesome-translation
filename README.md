@@ -65,6 +65,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## O
 
+* [OBS](https://crowdin.com/project/obs-studio)
 * [Obsidian.md](https://github.com/obsidianmd/obsidian-translations)
 
 ## P
@@ -86,6 +87,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## V
 
+* [VideoLAN](https://www.transifex.com/projects/p/vlc-trans/)
 * [Visual Studio Code Language Packs](https://github.com/microsoft/vscode-loc)
 
 ## W
