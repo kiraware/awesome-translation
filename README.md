@@ -35,6 +35,8 @@ A curated list of Open Source Projects that has or need translation.
 
 ## F
 
+* [Faker Python](https://github.com/joke2k/faker/blob/master/CONTRIBUTING.rst)
+* [FakerPHP](https://github.com/FakerPHP/Faker)
 * [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
 
 ## G
@@ -71,6 +73,8 @@ A curated list of Open Source Projects that has or need translation.
 ## P
 
 * [PyPI Warehouse](https://github.com/pypi/warehouse)
+* [pgAdmin](https://www.pgadmin.org/development/translations/)
+* [phpMyAdmin](https://www.phpmyadmin.net/translate/)
 
 ## Q
 
