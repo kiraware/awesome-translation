@@ -64,6 +64,7 @@ A curated list of Open Source Projects that has or need translation.
 - [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme/blob/main/CONTRIBUTING.md#add-translations)
 - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 - [MkDocs](https://github.com/mkdocs/mkdocs)
+- [Moodle](https://docs.moodle.org/405/en/Contributing_a_translation)
 
 ## N
 
@@ -88,6 +89,8 @@ A curated list of Open Source Projects that has or need translation.
 - [Semantic Versioning](https://github.com/semver/semver.org)
 
 ## T
+
+- [tldr-pages](https://github.com/tldr-pages/tldr/blob/main/CONTRIBUTING.md)
 
 ## U
 
