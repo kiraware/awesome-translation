@@ -63,6 +63,7 @@ A curated list of Open Source Projects that has or need translation.
 - [Mastodon](https://github.com/mastodon/mastodon)
 - [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme/blob/main/CONTRIBUTING.md#add-translations)
 - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
+- [Memos](https://github.com/usememos/memos/tree/main/web/src/locales)
 - [MkDocs](https://github.com/mkdocs/mkdocs)
 - [Moodle](https://docs.moodle.org/405/en/Contributing_a_translation)
 
@@ -90,6 +91,8 @@ A curated list of Open Source Projects that has or need translation.
 
 ## T
 
+- [Thunderbird Android](https://hosted.weblate.org/projects/tb-android/)
+- [Thunderbird Desktop](https://pontoon.mozilla.org/projects/thunderbird/)
 - [tldr-pages](https://github.com/tldr-pages/tldr/blob/main/CONTRIBUTING.md)
 
 ## U
