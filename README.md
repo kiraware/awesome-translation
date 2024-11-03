@@ -9,6 +9,8 @@ A curated list of Open Source Projects that has or need translation.
 
 ## B
 
+- [Bluesky Social App](https://github.com/bluesky-social/social-app/tree/main/src/locale)
+
 ## C
 
 - [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
@@ -73,6 +75,8 @@ A curated list of Open Source Projects that has or need translation.
 
 - [OBS](https://crowdin.com/project/obs-studio)
 - [Obsidian.md](https://github.com/obsidianmd/obsidian-translations)
+- [Omnivore Android](https://github.com/omnivore-app/omnivore/tree/main/android/Omnivore/app/src/main/res)
+- [Omnivore Apple](https://github.com/omnivore-app/omnivore/tree/main/apple/OmnivoreKit/Sources/Views/Resources)
 
 ## P
 
