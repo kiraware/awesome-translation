@@ -15,6 +15,7 @@ A curated list of Open Source Projects that has or need translation.
 
 - [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
 - [Conventional Commits](https://github.com/conventional-commits/conventionalcommits.org)
+- [cobalt](https://i18n.imput.net/)
 
 ## D
 
