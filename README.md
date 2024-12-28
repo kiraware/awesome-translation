@@ -45,8 +45,8 @@ A curated list of Open Source Projects that has or need translation.
 ## G
 
 - [GB Studio](https://github.com/chrismaltby/gb-studio)
-- [Godot Engine](https://hosted.weblate.org/projects/godot-engine/#languages)
 - [GnuPG for Windows](https://github.com/gpg/gpg4win)
+- [Godot Engine](https://hosted.weblate.org/projects/godot-engine/#languages)
 - [Grid Garden](https://github.com/thomaspark/gridgarden)
 
 ## H
