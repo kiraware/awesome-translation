@@ -54,6 +54,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## J
 
+- [JSONView](https://github.com/bhollis/jsonview/tree/master/src/_locales)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
 
 ## K
