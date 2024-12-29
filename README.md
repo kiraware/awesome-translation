@@ -15,6 +15,7 @@ A curated list of Open Source Projects that has or need translation.
 
 - [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
 - [Conventional Commits](https://github.com/conventional-commits/conventionalcommits.org)
+- [cobalt](https://i18n.imput.net/)
 
 ## D
 
@@ -46,6 +47,7 @@ A curated list of Open Source Projects that has or need translation.
 
 - [GB Studio](https://github.com/chrismaltby/gb-studio)
 - [GnuPG for Windows](https://github.com/gpg/gpg4win)
+- [Godot Engine](https://hosted.weblate.org/projects/godot-engine/#languages)
 - [Grid Garden](https://github.com/thomaspark/gridgarden)
 
 ## H
@@ -54,6 +56,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## J
 
+- [JSONView](https://github.com/bhollis/jsonview/tree/master/src/_locales)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
 
 ## K
