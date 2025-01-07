@@ -22,6 +22,7 @@ A curated list of Open Source Projects that has or need translation.
 ## D
 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser/tree/master/src/translations)
+- [DMOJ: Modern Online Judge](https://crowdin.com/project/dmoj)
 - [Dj-Rest-Auth](https://github.com/iMerica/dj-rest-auth)
 - [Django EAV 2](https://github.com/jazzband/django-eav2)
 - [Django REST Registration](https://github.com/apragacz/django-rest-registration)
