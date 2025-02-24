@@ -45,6 +45,7 @@ A curated list of Open Source Projects that has or need translation.
 - [Faker Python](https://github.com/joke2k/faker/blob/master/CONTRIBUTING.rst)
 - [FakerPHP](https://github.com/FakerPHP/Faker)
 - [Flexbox Froggy](https://github.com/thomaspark/flexboxfroggy)
+- [FreeOTP Plus](https://crowdin.com/project/freeotpplus)
 
 ## G
 
@@ -114,6 +115,7 @@ A curated list of Open Source Projects that has or need translation.
 
 ## W
 
+- [Weblate](https://hosted.weblate.org/projects/weblate/)
 - [wagtailmenus](https://github.com/jazzband/wagtailmenus)
 
 ## X
