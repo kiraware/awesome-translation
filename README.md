@@ -99,6 +99,7 @@ A curated list of Open Source Projects that has or need translation.
 
 - [Safe Exam Browser for Windows](https://github.com/SafeExamBrowser/seb-win-refactoring)
 - [Semantic Versioning](https://github.com/semver/semver.org)
+- [SoftEther VPN](https://github.com/SoftEtherVPN/SoftEtherVPN/tree/master/src/bin/hamcore)
 
 ## T
 
