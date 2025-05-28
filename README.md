@@ -67,6 +67,8 @@ A curated list of Open Source Projects that has or need translation.
 
 ## L
 
+- [Laragon](https://github.com/leokhoa/laragon/tree/master/bin/laragon/lang)
+
 ## M
 
 - [Mastodon](https://github.com/mastodon/mastodon)
@@ -117,6 +119,7 @@ A curated list of Open Source Projects that has or need translation.
 ## W
 
 - [Weblate](https://hosted.weblate.org/projects/weblate/)
+- [WordPress](https://translate.wordpress.org/)
 - [wagtailmenus](https://github.com/jazzband/wagtailmenus)
 
 ## X
