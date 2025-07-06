@@ -86,7 +86,7 @@ A curated list of Open Source Projects that has or need translation.
 - [Obsidian.md](https://github.com/obsidianmd/obsidian-translations)
 - [Omnivore Android](https://github.com/omnivore-app/omnivore/tree/main/android/Omnivore/app/src/main/res)
 - [Omnivore Apple](https://github.com/omnivore-app/omnivore/tree/main/apple/OmnivoreKit/Sources/Views/Resources)
-- [OpenTX](https://github.com/opentx/opentx/tree/2.3/radio/src/translations)
+- [OpenTX](https://github.com/opentx/opentx)
 
 ## P
 
