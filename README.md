@@ -129,6 +129,8 @@ A curated list of Open Source Projects that has or need translation.
 
 ## Z
 
+- [Zabbix](https://translate.zabbix.com/)
+
 ## Contributing
 
 We welcome contributions to Awesome Translation! Please review our
