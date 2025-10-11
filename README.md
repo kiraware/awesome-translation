@@ -6,6 +6,7 @@ A curated list of Open Source Projects that has or need translation.
 
 - [Angry IP Scanner](https://github.com/angryip/ipscan)
 - [Audacity](https://github.com/audacity/audacity)
+- [Avogadro](https://hosted.weblate.org/projects/avogadro/)
 
 ## B
 
